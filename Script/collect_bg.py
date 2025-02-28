@@ -3,7 +3,7 @@ import requests
 import time
 from tqdm import *
 # GitHub API token for authentication (replace with your token)
-GITHUB_TOKEN = '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'
+GITHUB_TOKEN = ''
 HEADERS = {
     'Authorization': f'token {GITHUB_TOKEN}',
     'Accept': 'application/vnd.github.v3+json'
