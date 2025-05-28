@@ -1,5 +1,5 @@
-# ICSE26_subdomain
-The repository for submission ICSE 2026
+# ASE2025_subdomain
+The repository for submission ASE 2025
 ### For the Subdomain Takeover Detection:
 - **Script**:  
   Contains scripts for scraping data using the GitHub API, Word of Code codebase and analyzing this data.
